@@ -1,13 +1,5 @@
 ---
 title: Rhino처럼 방향이 있는 arc 그리기
-tags:
-  - "#rhino"
-  - "#angle"
-  - directedangle
-  - "#arc"
-  - "#geomtery"
-categories:
-  - "[geometry, arc]"
 createdAt: 2023-10-11 10:18
 lastmod: 2023-12-12 10:18
 lang: es

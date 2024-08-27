@@ -1,13 +1,5 @@
 ---
 title: Drawing Directional Arcs like in Rhino
-tags:
-  - "#rhino"
-  - "#angle"
-  - directedangle
-  - "#arc"
-  - "#geometry"
-categories:
-  - "[geometry, arc]"
 createdAt: 2023-10-11 10:18
 lastmod: 2023-12-12 10:18
 lang: en
