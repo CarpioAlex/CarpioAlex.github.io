@@ -6,7 +6,6 @@ lang: es
 layout: page
 title: "About Us"
 permalink: /about/
-lang: en
 ---
 Welcome to our About Us page. EN ESPAÑOL
 ---
