@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 lang: es
-permalink: /es/about/
+permalink: /about/
 ---
 
 
