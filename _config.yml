@@ -9,6 +9,12 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
+
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
+
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
