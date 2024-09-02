@@ -11,7 +11,7 @@ lang: en
 
 
 languages: ["en", "es"]
-default_lang: "en"
+default_lang: "es-CA"
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true
 
